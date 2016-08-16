@@ -1,0 +1,9 @@
+c:\users\elisa\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\elisa\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\elisa\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\elisa\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+c:\users\elisa\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\elisa\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\Ejercicios-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\Ejercicios-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\Ejercicios-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

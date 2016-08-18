@@ -1,0 +1,8 @@
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\bin\Debug\Poo.exe.config
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\obj\Debug\Poo.csprojResolveAssemblyReference.cache
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\bin\Debug\Poo.exe
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\bin\Debug\Poo.pdb
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\bin\Debug\ClassLibrary1.dll
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\bin\Debug\ClassLibrary1.pdb
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\obj\Debug\Poo.exe
+c:\users\informatorio\documents\visual studio 2015\Projects\Poo\Poo\obj\Debug\Poo.pdb

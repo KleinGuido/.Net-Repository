@@ -1,0 +1,2 @@
+c:\users\administrador\documents\visual studio 2012\Projects\InformatorioPokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Application.exe.config
+C:\Users\Informatorio\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Application.exe.config

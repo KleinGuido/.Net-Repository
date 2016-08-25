@@ -1,0 +1,6 @@
+c:\users\elisa\documents\visual studio 2015\Projects\PracticaPOO2\PracticaPOO2\bin\Debug\PracticaPOO2.exe.config
+c:\users\elisa\documents\visual studio 2015\Projects\PracticaPOO2\PracticaPOO2\bin\Debug\PracticaPOO2.exe
+c:\users\elisa\documents\visual studio 2015\Projects\PracticaPOO2\PracticaPOO2\bin\Debug\PracticaPOO2.pdb
+c:\users\elisa\documents\visual studio 2015\Projects\PracticaPOO2\PracticaPOO2\obj\Debug\PracticaPOO2.csprojResolveAssemblyReference.cache
+c:\users\elisa\documents\visual studio 2015\Projects\PracticaPOO2\PracticaPOO2\obj\Debug\PracticaPOO2.exe
+c:\users\elisa\documents\visual studio 2015\Projects\PracticaPOO2\PracticaPOO2\obj\Debug\PracticaPOO2.pdb

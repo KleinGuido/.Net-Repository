@@ -13,9 +13,9 @@ namespace InformatorioPokedex.Data
 
         }
 
-        public void chorroDeAgua()
+        public string chorroDeAgua()
         {
-            Console.WriteLine("Lanza Chorro de Agua! ");
+            return "Pokemon usa Chorro de Agua! ";
         }
     }
 }

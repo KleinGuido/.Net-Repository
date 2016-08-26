@@ -22,5 +22,16 @@ namespace InformatorioPokedex.Data
             peso = p;
             altura = alt;
         }
+
+        public string placaje()
+        {
+            return "Pokemon usa Placaje! ";
+        }
+
+        public string gruñido()
+        {
+            return "Pokemon usa Gruñido! ";
+        }
     }
 }
+

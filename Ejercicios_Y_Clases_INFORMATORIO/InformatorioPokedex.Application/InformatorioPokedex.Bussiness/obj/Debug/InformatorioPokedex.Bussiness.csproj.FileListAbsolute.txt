@@ -1,0 +1,7 @@
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Bussiness.dll
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Bussiness.pdb
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Data.dll
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Data.pdb
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Bussiness\obj\Debug\InformatorioPokedex.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Bussiness\obj\Debug\InformatorioPokedex.Bussiness.dll
+C:\Users\Elisa\Documents\Visual Studio 2015\Projects\InformatorioPokedex.Application\InformatorioPokedex.Bussiness\obj\Debug\InformatorioPokedex.Bussiness.pdb

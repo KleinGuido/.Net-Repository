@@ -9,5 +9,7 @@ namespace InformatorioPokedex.Data
      public static class DatosPokemon
     {
         public static List<Pokemon> pokemons = new List<Pokemon>();
+
+        
     }
 }

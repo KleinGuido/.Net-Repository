@@ -3,11 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using InformatorioPokedex.Data.PokemonDA;
 
 namespace InformatorioPokedex.Data
 {
-   public  class ManejoDeDatos
+    public class ManejoDeDatos
     {
+        public PokemonContext PokemonContext { get; set; }
+        public ManejoDeDatos()
+        {
+            this.PokemonContext = new PokemonContext();
+        }
+
+        public void Add (Pokemon p)
+        {
+            var pokemonDb = new InformatorioPokedex.Data.PokemonDA.Pokemon();
+            
+            this.PokemonContext.Pokemon.Add(p);
+
+            this.PokemonContext.SaveChanges();
+        }
+
+
+    
+    
         //agregar pokemons
         //devolver una lista con todos los pokemon registrados hasta el momento
 

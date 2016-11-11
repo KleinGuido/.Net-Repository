@@ -1,0 +1,57 @@
+﻿@model RepasoTest.Models.Car
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Car</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CarBrand)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CarBrand)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CarModel)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CarModel)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CarColor)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CarColor)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DateCreated)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DateCreated)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CarId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

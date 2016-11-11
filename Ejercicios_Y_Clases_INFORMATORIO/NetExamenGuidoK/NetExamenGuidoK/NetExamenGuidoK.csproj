@@ -272,11 +272,6 @@
     <Content Include="Views\PetModels\Details.cshtml" />
     <Content Include="Views\PetModels\Edit.cshtml" />
     <Content Include="Views\PetModels\Index.cshtml" />
-    <Content Include="Views\PetModels1\Create.cshtml" />
-    <Content Include="Views\PetModels1\Delete.cshtml" />
-    <Content Include="Views\PetModels1\Details.cshtml" />
-    <Content Include="Views\PetModels1\Edit.cshtml" />
-    <Content Include="Views\PetModels1\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
